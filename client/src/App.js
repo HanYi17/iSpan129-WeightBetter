@@ -41,7 +41,7 @@ import EditPost from "./pages/blog/Pages/Post/EditPost";
 import SearchResult from "./pages/blog/Pages/SearchResult/SearchResult";
 
 //**? 客製化菜單 */
-import Menu from "./pages/menu";
+import Menu from "./pages/Menu";
 
 //**? 短影音 */
 import HomeStory from "./pages/story/Home";
